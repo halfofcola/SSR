@@ -436,3 +436,12 @@ iOS版下载地址：[wingy](https://itunes.apple.com/us/app/wingy-http-s-socks5
 ![YouTube视频下载速度](http://oeat6c2zg.bkt.clouddn.com/QQ20171107-175234@2x.png)  
 
 是不是感觉帮帮哒！
+
+修改ssr配置：
+
+1.  vi etc/shadowsocks.json
+2.按i进入编辑模式
+3.修改端口
+4.按shift+：退出编辑模式
+5.输入wq
+6.重启ssr
